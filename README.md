@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kristen McCaffrey</h1>
 <h3 align="center">A Senior Data Scientist and Certified Scrum Master (CSM)</h3>
 
-- 😄 Pronouns: She/Her
-- 🌱 I’m currently learning  **Front End Development**
+- 📖 A dynamic data scientist with 6 years of experience specializing in **data storytelling** 
+- 🌱 I’m currently exploring  **Front End Development**
 - 💬 Ask me about **Python | Power Bi | Plotly Dash | Tableau | Agile Development**
 - 📫 How to reach me **kristenmccaffrey2@gmail.com**
 
