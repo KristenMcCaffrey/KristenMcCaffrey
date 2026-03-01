@@ -1,9 +1,8 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2024/03/21/00/32/ai-generated-8646624_1280.png)](https://github.com/Kapil987)
-<p align="center"><em> This image was generated using AI </em></p>
+![MasterHead](https://images.unsplash.com/photo-1602576666092-bf6447a729fc?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Kristen McCaffrey</h1>
 <h3 align="center">A Senior Data Scientist and Certified Scrum Master (CSM)</h3>
 
-- 📖 A dynamic data scientist with 6 years of experience specializing in **data storytelling** 
+- 📖 A dynamic data scientist with 7 years of experience specializing in **data storytelling** 
 - 🌱 I’m currently exploring  **Front End Development**
 - 💬 Ask me about **Python | Power Bi | Plotly Dash | Tableau | Agile Development**
 - 📫 How to reach me **kristenmccaffrey2@gmail.com**
